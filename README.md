@@ -2,4 +2,4 @@
 
 ## [Documentation is in the master brance /docs folder](https://rhel-skel.lamurakami.com)
 
-### LAMurakami GitHub Pages at: ttps://github.lamurakami.com(https://github.lamurakami.com)
+### LAMurakami GitHub Pages at: (https://github.lamurakami.com)
