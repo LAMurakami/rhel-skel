@@ -1,5 +1,5 @@
-# The [rhel-skel](https://rhel-skel.lamurakami.com) repository
+# The [rhel-skel](https://lamurakami.github.io/rhel-skel) repository
 
-## [Documentation is in the master branch /docs folder](https://rhel-skel.lamurakami.com)
+## [Documentation is in the master branch /docs folder](https://github.com/LAMurakami/rhel-skel/tree/master/docs)
 
-### LAMurakami GitHub Pages at: (https://github.lamurakami.com)
+### LAMurakami GitHub Pages at: (https://lamurakami.github.io)
